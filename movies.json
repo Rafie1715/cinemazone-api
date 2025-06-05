@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "posterPath": "/9gk7adHYeDvHkWTdbContextMcbzMEn.jpg",
+    "releaseDate": "2010-07-15",
+    "voteAverage": 8.4
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "overview": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "posterPath": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "releaseDate": "2014-11-05",
+    "voteAverage": 8.4
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "posterPath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "releaseDate": "2008-07-14",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "posterPath": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "releaseDate": "1994-09-10",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "posterPath": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "releaseDate": "1994-06-23",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 6,
+    "title": "The Lord of the Rings: The Return of the King",
+    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+    "posterPath": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "releaseDate": "2003-12-01",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 7,
+    "title": "Spirited Away",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "posterPath": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "releaseDate": "2001-07-20",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 8,
+    "title": "Parasite",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "posterPath": "/7IiTTgloJzvGI1TAYymCq4PS9fY.jpg",
+    "releaseDate": "2019-05-30",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 9,
+    "title": "The Shawshank Redemption",
+    "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an unscrupulous warden.",
+    "posterPath": "/q6y0Go1tsGEsmtFryDOJo3dYHe.jpg",
+    "releaseDate": "1994-09-23",
+    "voteAverage": 8.7
+  },
+  {
+    "id": 10,
+    "title": "Avengers: Infinity War",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality.",
+    "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "releaseDate": "2018-04-25",
+    "voteAverage": 8.3
+  },
+  {
+    "id": 11,
+    "title": "Your Name.",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "posterPath": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "releaseDate": "2016-08-26",
+    "voteAverage": 8.5
+  },
+  {
+    "id": 12,
+    "title": "Dune: Part Two",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "posterPath": "/1fgOkLW9Z2n2YJ4I653aL9pUn4.jpg",
+    "releaseDate": "2024-02-27",
+    "voteAverage": 8.3
+  },
+  {
+    "id": 13,
+    "title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "posterPath": "/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "releaseDate": "2015-05-13",
+    "voteAverage": 7.6
+  },
+  {
+    "id": 14,
+    "title": "Pengabdi Setan 2: Communion",
+    "overview": "A few years after a terrifying experience, Rini and her younger siblings live in a low-cost apartment, believing that staying with many people will keep them safe. However, they soon realize that their new home might be even more dangerous.",
+    "posterPath": "/6R5844GGE32f0jrB2h2Rj5V2sjy.jpg",
+    "releaseDate": "2022-08-04",
+    "voteAverage": 7.2
+  },
+  {
+    "id": 15,
+    "title": "Everything Everywhere All at Once",
+    "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "posterPath": "/w3LxiVYdWWRvEVeX4KNltmpc Алесандра.jpg",
+    "releaseDate": "2022-03-24",
+    "voteAverage": 7.8
+  }
+]
