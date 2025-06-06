@@ -115,8 +115,88 @@
     "id": 15,
     "title": "Everything Everywhere All at Once",
     "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
-    "poster_Path": "https://upload.wikimedia.org/wikipedia/id/1/1e/Everything_Everywhere_All_at_Once.jpg",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/1/1e/Everything_Everywhere_All_at_Once.jpg",
     "release_date": "2022-03-24",
     "vote_average": 7.8
+  },
+  {
+    "id": 16,
+    "title": "Blade Runner 2049",
+    "overview": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+    "release_date": "2017-10-04",
+    "vote_average": 7.5
+  },
+  {
+    "id": 17,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Miles Morales, a smart teenager from Brooklyn, is bitten by a radioactive spider and develops powers.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/9/91/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png",
+    "release_date": "2018-12-06",
+    "vote_average": 8.4
+  },
+  {
+    "id": 18,
+    "title": "1917",
+    "overview": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/e/e4/1917_poster.jpg",
+    "release_date": "2019-12-25",
+    "vote_average": 7.8
+  },
+  {
+    "id": 19,
+    "title": "The Greatest Showman",
+    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/1/10/The_Greatest_Showman_poster.png",
+    "release_date": "2017-12-20",
+    "vote_average": 7.5
+  },
+  {
+    "id": 20,
+    "title": "The Raid: Redemption",
+    "overview": "Deep in the heart of Jakarta's slums, an elite S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/8/84/The_Raid_Redemption.jpg",
+    "release_date": "2012-03-23",
+    "vote_average": 7.5
+  },
+  {
+    "id": 21,
+    "title": "Knives Out",
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the debonair Detective Benoit Blanc is mysteriously enlisted to investigate.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/a/a2/Knives_Out_poster.jpeg",
+    "release_date": "2019-11-27",
+    "vote_average": 7.8
+  },
+  {
+    "id": 22,
+    "title": "WALL·E",
+    "overview": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/c/c2/WALL-Eposter.jpg",
+    "release_date": "2008-06-22",
+    "vote_average": 8.0
+  },
+  {
+    "id": 23,
+    "title": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy, full of obsession, deceit, and jealousy, with dangerous and deadly consequences.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/d/d2/The_Prestige_poster.jpg",
+    "release_date": "2006-10-20",
+    "vote_average": 8.5
+  },
+  {
+    "id": 24,
+    "title": "Oppenheimer",
+    "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/4/4a/Oppenheimer_%28film%29.jpg",
+    "release_date": "2023-07-19",
+    "vote_average": 8.1
+  },
+  {
+    "id": 25,
+    "title": "Ada Apa Dengan Cinta? 2",
+    "overview": "After years of separation, Cinta and Rangga are given a second chance to make things right when they meet again in Yogyakarta.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/id/f/fa/AADC_2.jpg",
+    "release_date": "2016-04-28",
+    "vote_average": 7.4
   }
 ]
