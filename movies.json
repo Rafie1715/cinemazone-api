@@ -6,7 +6,44 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/9/91/Inception_poster.jpg",
     "release_date": "2010-07-15",
     "vote_average": 8.4,
-    "trailer_url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    "trailer_url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:30", "studio": "Studio 1" },
+              { "time": "17:00", "studio": "Studio 2" },
+              { "time": "20:00", "studio": "Studio 1" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "15:00", "studio": "Studio 3" },
+              { "time": "18:00", "studio": "Studio 3" }
+            ]
+          }
+        ]
+      },
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 60000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:00", "studio": "Studio 4" },
+              { "time": "16:00", "studio": "Studio 4" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +52,44 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/b/bc/Interstellar_film_poster.jpg",
     "release_date": "2014-11-05",
     "vote_average": 8.4,
-    "trailer_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    "trailer_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "genre": ["Drama", "Sci-Fi", "Adventure"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 55000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:30", "studio": "Studio 2" },
+              { "time": "16:30", "studio": "Studio 1" },
+              { "time": "19:30", "studio": "Studio 2" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:00", "studio": "Studio 1" },
+              { "time": "17:30", "studio": "Studio 2" }
+            ]
+          }
+        ]
+      },
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 65000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:00", "studio": "Studio 3" },
+              { "time": "18:30", "studio": "Studio 3" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +98,31 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg",
     "release_date": "2008-07-14",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/LDG9bisJEaI?si=eCPH1kUtheobaYwV"
+    "trailer_url": "https://youtu.be/LDG9bisJEaI?si=eCPH1kUtheobaYwV",
+    "genre": ["Action", "Crime", "Drama"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 45000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:00", "studio": "Studio 3" },
+              { "time": "17:30", "studio": "Studio 3" },
+              { "time": "21:00", "studio": "Studio 3" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "15:30", "studio": "Studio 2" },
+              { "time": "19:00", "studio": "Studio 2" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +131,30 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
     "release_date": "1994-09-10",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/tGpTpVyI_OQ?si=UWmq-GICTgHjSE1p"
+    "trailer_url": "https://youtu.be/tGpTpVyI_OQ?si=UWmq-GICTgHjSE1p",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:30", "studio": "Studio 2" },
+              { "time": "18:45", "studio": "Studio 2" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "16:00", "studio": "Studio 1" },
+              { "time": "19:15", "studio": "Studio 1" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +163,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/6/67/Forrest_Gump_poster.jpg",
     "release_date": "1994-06-23",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/bLvqoHBptjg?si=1B2TUTGboa76fQDH"
+    "trailer_url": "https://youtu.be/bLvqoHBptjg?si=1B2TUTGboa76fQDH",
+    "genre": ["Drama", "Romance", "Comedy"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 48000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:45", "studio": "Studio 1" },
+              { "time": "16:45", "studio": "Studio 1" },
+              { "time": "19:45", "studio": "Studio 1" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +189,30 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "release_date": "2003-12-01",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/zckJCxYxn1g?si=1PitxWPPGhC4r4Za"
+    "trailer_url": "https://youtu.be/zckJCxYxn1g?si=1PitxWPPGhC4r4Za",
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 52000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:00", "studio": "Studio 4" },
+              { "time": "17:15", "studio": "Studio 4" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:30", "studio": "Studio 4" },
+              { "time": "18:45", "studio": "Studio 4" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +221,24 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
     "release_date": "2001-07-20",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/ByXuk9QqQkk?si=h_C5MIjeB0r-hLbC"
+    "trailer_url": "https://youtu.be/ByXuk9QqQkk?si=h_C5MIjeB0r-hLbC",
+    "genre": ["Animation", "Adventure", "Family"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 45000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:15", "studio": "Studio 5" },
+              { "time": "16:45", "studio": "Studio 5" },
+              { "time": "19:15", "studio": "Studio 5" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +247,24 @@
     "poster_path": "https://assets-a1.kompasiana.com/items/album/2022/03/08/parasite-62275f04317949435d797282.jpg",
     "release_date": "2019-05-30",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/5xH0HfJHsaY?si=xVk329mmqg6CqrLk"
+    "trailer_url": "https://youtu.be/5xH0HfJHsaY?si=xVk329mmqg6CqrLk",
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 55000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:45", "studio": "Studio 2" },
+              { "time": "18:30", "studio": "Studio 2" },
+              { "time": "21:15", "studio": "Studio 2" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +273,30 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/8/81/ShawshankRedemptionMoviePoster.jpg",
     "release_date": "1994-09-23",
     "vote_average": 8.7,
-    "trailer_url": "https://youtu.be/PLl99DlL6b4?si=5U2swneZGEP2zYkm"
+    "trailer_url": "https://youtu.be/PLl99DlL6b4?si=5U2swneZGEP2zYkm",
+    "genre": ["Drama", "Crime"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:15", "studio": "Studio 5" },
+              { "time": "18:15", "studio": "Studio 5" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "16:30", "studio": "Studio 5" },
+              { "time": "19:30", "studio": "Studio 5" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,16 +305,62 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
     "release_date": "2018-04-25",
     "vote_average": 8.3,
-    "trailer_url": "https://youtu.be/6ZfuNTqbHE8?si=Iub3XYoD8r1WR6-G"
+    "trailer_url": "https://youtu.be/6ZfuNTqbHE8?si=Iub3XYoD8r1WR6-G",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 60000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:00", "studio": "Studio 1" },
+              { "time": "17:15", "studio": "Studio 1" },
+              { "time": "20:30", "studio": "Studio 1" }
+            ]
+          }
+        ]
+      },
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 65000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "13:30", "studio": "Studio 4" },
+              { "time": "16:45", "studio": "Studio 4" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 11,
     "title": "Your Name.",
-    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki's body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/0/0b/Your_Name_poster.png",
     "release_date": "2016-08-26",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/s0wTdCQoc2k?si=shNd1KCxYP6L3oKA"
+    "trailer_url": "https://youtu.be/s0wTdCQoc2k?si=shNd1KCxYP6L3oKA",
+    "genre": ["Animation", "Drama", "Romance"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 48000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "16:00", "studio": "Studio 6" },
+              { "time": "18:30", "studio": "Studio 6" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 12,
@@ -105,7 +369,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_film_dune_part_two.jpg",
     "release_date": "2024-02-27",
     "vote_average": 8.3,
-    "trailer_url": "https://youtu.be/Way9Dexny3w?si=ENXl2B7M-rUsDDjC"
+    "trailer_url": "https://youtu.be/Way9Dexny3w?si=ENXl2B7M-rUsDDjC",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 65000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:30", "studio": "Studio 5" },
+              { "time": "17:45", "studio": "Studio 5" },
+              { "time": "21:00", "studio": "Studio 5" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 13,
@@ -114,7 +395,24 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "release_date": "2015-05-13",
     "vote_average": 7.6,
-    "trailer_url": "https://youtu.be/hEJnMQG9ev8?si=y6M64vXMAHvXeQ5p"
+    "trailer_url": "https://youtu.be/hEJnMQG9ev8?si=y6M64vXMAHvXeQ5p",
+    "genre": ["Action", "Adventure", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 52000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "15:30", "studio": "Studio 3" },
+              { "time": "18:00", "studio": "Studio 3" },
+              { "time": "20:30", "studio": "Studio 3" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +421,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/2/26/Pengabdi_Setan_2.jpeg",
     "release_date": "2022-08-04",
     "vote_average": 7.2,
-    "trailer_url": "https://youtu.be/8LIHcd7WfWI?si=Ayk4aD7TNBg7OWQh"
+    "trailer_url": "https://youtu.be/8LIHcd7WfWI?si=Ayk4aD7TNBg7OWQh",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "19:00", "studio": "Studio 7" },
+              { "time": "21:30", "studio": "Studio 7" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +446,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/1/1e/Everything_Everywhere_All_at_Once.jpg",
     "release_date": "2022-03-24",
     "vote_average": 7.8,
-    "trailer_url": "https://youtu.be/wxN1T1uxQ2g?si=_AKDbZIyNXkTAiOZ"
+    "trailer_url": "https://youtu.be/wxN1T1uxQ2g?si=_AKDbZIyNXkTAiOZ",
+    "genre": ["Action", "Comedy", "Sci-Fi"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 58000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:15", "studio": "Studio 3" },
+              { "time": "17:30", "studio": "Studio 3" },
+              { "time": "20:45", "studio": "Studio 3" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 16,
@@ -141,7 +472,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
     "release_date": "2017-10-04",
     "vote_average": 7.5,
-    "trailer_url": "https://youtu.be/gCcx85zbxz4?si=c9FkTWOkuhjl50Qt"
+    "trailer_url": "https://youtu.be/gCcx85zbxz4?si=c9FkTWOkuhjl50Qt",
+    "genre": ["Drama", "Sci-Fi", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 55000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "16:30", "studio": "Studio 6" },
+              { "time": "19:45", "studio": "Studio 6" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 17,
@@ -150,7 +497,24 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX1000_.jpg",
     "release_date": "2018-12-06",
     "vote_average": 8.4,
-    "trailer_url": "https://youtu.be/g4Hbz2jLxvQ?si=4KuUTnXtaAeqR4OC"
+    "trailer_url": "https://youtu.be/g4Hbz2jLxvQ?si=4KuUTnXtaAeqR4OC",
+    "genre": ["Animation", "Action", "Adventure"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 52000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "13:45", "studio": "Studio 6" },
+              { "time": "16:15", "studio": "Studio 6" },
+              { "time": "18:45", "studio": "Studio 6" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 18,
@@ -159,7 +523,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/a/ae/1917_film_poster.jpg",
     "release_date": "2019-12-25",
     "vote_average": 7.8,
-    "trailer_url": "https://youtu.be/YqNYrYUiMfg?si=lruT7wfAShal6h85"
+    "trailer_url": "https://youtu.be/YqNYrYUiMfg?si=lruT7wfAShal6h85",
+    "genre": ["Drama", "War", "Action"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:00", "studio": "Studio 6" },
+              { "time": "17:45", "studio": "Studio 6" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 19,
@@ -168,7 +548,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/1/10/The_Greatest_Showman_poster.png",
     "release_date": "2017-12-20",
     "vote_average": 7.5,
-    "trailer_url": "https://youtu.be/EodWwczRIe4?si=ydjs_JI6-ZFv3Lzq"
+    "trailer_url": "https://youtu.be/EodWwczRIe4?si=ydjs_JI6-ZFv3Lzq",
+    "genre": ["Biography", "Drama", "Musical"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 48000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:45", "studio": "Studio 7" },
+              { "time": "17:15", "studio": "Studio 7" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 20,
@@ -177,7 +573,23 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BOGUxM2Q0MzItZDRmYy00ZWY1LWFiNzctNmY3Njg2ODJjZWNmXkEyXkFqcGc@._V1_.jpg",
     "release_date": "2012-03-23",
     "vote_average": 7.5,
-    "trailer_url": "https://youtu.be/i0KjZKAiiaU?si=V4DrSxPfvxODEkoh"
+    "trailer_url": "https://youtu.be/i0KjZKAiiaU?si=V4DrSxPfvxODEkoh",
+    "genre": ["Action", "Crime", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 45000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "18:15", "studio": "Studio 7" },
+              { "time": "20:45", "studio": "Studio 7" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 21,
@@ -186,7 +598,23 @@
     "poster_path": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "release_date": "2019-11-27",
     "vote_average": 7.8,
-    "trailer_url": "https://youtu.be/qGqiHJTsRkQ?si=0mNvwxjE7eTn43rd"
+    "trailer_url": "https://youtu.be/qGqiHJTsRkQ?si=0mNvwxjE7eTn43rd",
+    "genre": ["Comedy", "Crime", "Mystery"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 52000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "15:15", "studio": "Studio 1" },
+              { "time": "18:00", "studio": "Studio 1" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 22,
@@ -195,7 +623,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/c/c2/WALL-Eposter.jpg",
     "release_date": "2008-06-22",
     "vote_average": 8.0,
-    "trailer_url": "https://youtu.be/CZ1CATNbXg0?si=IWsnZV12dJpSNJA7"
+    "trailer_url": "https://youtu.be/CZ1CATNbXg0?si=IWsnZV12dJpSNJA7",
+    "genre": ["Animation", "Adventure", "Family"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 45000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:15", "studio": "Studio 8" },
+              { "time": "15:45", "studio": "Studio 8" },
+              { "time": "18:15", "studio": "Studio 8" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 23,
@@ -204,7 +649,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/d/d2/Prestige_poster.jpg",
     "release_date": "2006-10-20",
     "vote_average": 8.5,
-    "trailer_url": "https://youtu.be/RLtaA9fFNXU?si=e0by95pQ095N5kc2"
+    "trailer_url": "https://youtu.be/RLtaA9fFNXU?si=e0by95pQ095N5kc2",
+    "genre": ["Drama", "Mystery", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "16:45", "studio": "Studio 2" },
+              { "time": "19:30", "studio": "Studio 2" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 24,
@@ -213,7 +674,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/4/4a/Oppenheimer_%28film%29.jpg",
     "release_date": "2023-07-19",
     "vote_average": 8.1,
-    "trailer_url": "https://youtu.be/bK6ldnjE3Y0?si=o_YyoSUJlsofsmeM"
+    "trailer_url": "https://youtu.be/bK6ldnjE3Y0?si=o_YyoSUJlsofsmeM",
+    "genre": ["Biography", "Drama", "History"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 60000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:30", "studio": "Studio 7" },
+              { "time": "17:00", "studio": "Studio 7" },
+              { "time": "20:30", "studio": "Studio 7" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 25,
@@ -222,7 +700,23 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/6/60/Ada_Apa_Denga_Cinta_2.jpg",
     "release_date": "2016-04-28",
     "vote_average": 7.4,
-    "trailer_url": "https://youtu.be/3c_McS4_2A8?si=GOgBBhS1VyT55PGo"
+    "trailer_url": "https://youtu.be/3c_McS4_2A8?si=GOgBBhS1VyT55PGo",
+    "genre": ["Drama", "Romance"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 42000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "14:45", "studio": "Studio 9" },
+              { "time": "17:30", "studio": "Studio 9" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 26,
@@ -231,7 +725,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/0/05/Venom_poster.jpg",
     "release_date": "2018-10-03",
     "vote_average": 6.6,
-    "trailer_url": "https://youtu.be/u9Mv98Gr5pY?si=ycZBVeSyy1VNgUy-"
+    "trailer_url": "https://youtu.be/u9Mv98Gr5pY?si=ycZBVeSyy1VNgUy-",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 48000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:00", "studio": "Studio 4" },
+              { "time": "16:30", "studio": "Studio 4" },
+              { "time": "19:00", "studio": "Studio 4" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 27,
@@ -240,7 +751,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/thumb/9/90/Thunderbolts%2A_poster.jpg/250px-Thunderbolts%2A_poster.jpg",
     "release_date": "2025-05-02",
     "vote_average": 7.6,
-    "trailer_url": "https://youtu.be/v-94Snw-H4o?si=IHDEFPLl0nfrtPAe"
+    "trailer_url": "https://youtu.be/v-94Snw-H4o?si=IHDEFPLl0nfrtPAe",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Plaza Indonesia",
+        "price": 62000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "16:15", "studio": "Studio 8" },
+              { "time": "19:00", "studio": "Studio 8" },
+              { "time": "21:45", "studio": "Studio 8" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 28,
@@ -249,7 +777,24 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_%28film%29_poster.jpg",
     "release_date": "2023-06-16",
     "vote_average": 6.6,
-    "trailer_url": "https://youtu.be/hebWYacbdvc?si=b94qrUayYSC-R2eV"
+    "trailer_url": "https://youtu.be/hebWYacbdvc?si=b94qrUayYSC-R2eV",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 50000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "15:45", "studio": "Studio 8" },
+              { "time": "18:30", "studio": "Studio 8" },
+              { "time": "21:15", "studio": "Studio 8" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 29,
@@ -258,7 +803,37 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg",
     "release_date": "2019-04-24",
     "vote_average": 8.4,
-    "trailer_url": "https://youtu.be/TcMBFSGVi1c?si=7Tem8fcB3Vo8gUx2"
+    "trailer_url": "https://youtu.be/TcMBFSGVi1c?si=7Tem8fcB3Vo8gUx2",
+    "genre": ["Action", "Adventure", "Drama"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Grand Indonesia",
+        "price": 65000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "13:15", "studio": "Studio 8" },
+              { "time": "17:00", "studio": "Studio 8" },
+              { "time": "20:45", "studio": "Studio 8" }
+            ]
+          }
+        ]
+      },
+      {
+        "location": "CinemaZone Central Park",
+        "price": 60000,
+        "shows": [
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "13:00", "studio": "Studio 9" },
+              { "time": "16:45", "studio": "Studio 9" }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 30,
@@ -267,6 +842,30 @@
     "poster_path": "https://upload.wikimedia.org/wikipedia/id/6/66/Transformers07.jpg",
     "release_date": "2007-06-28",
     "vote_average": 7.1,
-    "trailer_url": "https://youtu.be/CbX_SIz_9fk?si=Nb090kj1IkNFps4P"
+    "trailer_url": "https://youtu.be/CbX_SIz_9fk?si=Nb090kj1IkNFps4P",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "showtimes": [
+      {
+        "location": "CinemaZone Central Park",
+        "price": 46000,
+        "shows": [
+          {
+            "date": "2025-06-08",
+            "times": [
+              { "time": "15:30", "studio": "Studio 10" },
+              { "time": "18:45", "studio": "Studio 10" }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "times": [
+              { "time": "14:15", "studio": "Studio 10" },
+              { "time": "17:30", "studio": "Studio 10" },
+              { "time": "20:45", "studio": "Studio 10" }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
